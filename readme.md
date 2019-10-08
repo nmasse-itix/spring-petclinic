@@ -1,9 +1,13 @@
-# Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
-Deploy this sample application to Pivotal Web Services:
+# Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?
 
-<a href="https://push-to.cfapps.io?repo=https%3A%2F%2Fgithub.com%2Fspring-projects%2Fspring-petclinic.git">
-    <img src="https://push-to.cfapps.io/ui/assets/images/Push-to-Pivotal-Light-with-Shadow.svg" width="180" alt="Push" align="center">
-</a>
+
+## Developer Workspace
+
+image::https://che.openshift.io/factory/resources/factory-contribute.svg[link="https://che.openshift.io/f?url=https://github.com/slemeur/spring-petclinic/"]
+
+This CodeReady Workspaces Factory can also be invoked with any host:
+{hostURL}/f?url=https://github.com/slemeur/spring-petclinic/
+It will read the `devfile.yaml` from the repository to instanciate the developer workspace.
 
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
