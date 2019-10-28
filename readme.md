@@ -2,7 +2,7 @@
 
 ## Developer Workspace
 
-[![Contribute](https://che.openshift.io/factory/resources/factory-contribute.svg)](https://che.openshift.io/factory/resources/factory-contribute.svg[link="https://che.openshift.io/f?url=https://github.com/slemeur/spring-petclinic)
+[![Contribute](https://che.openshift.io/factory/resources/factory-contribute.svg)](https://che.openshift.io/f?url=https://github.com/slemeur/spring-petclinic)
 
 This CodeReady Workspaces Factory can also be invoked with any host:
 {hostURL}/f?url=https://github.com/slemeur/spring-petclinic/
